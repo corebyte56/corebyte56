@@ -1,6 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building responsive web applications and improving my frontend & full-stack skills.<br><br>👯 I’m looking to collaborate on<br>Open-source web projects and beginner-friendly full-stack apps.<br><br>🤝 I’m looking for help with<br>Advanced JavaScript concepts and scalable frontend architecture.<br><br>🌱 I’m currently learning<br>Modern web technologies: HTML, CSS, JavaScript, Git/GitHub, and frameworks.<br><br>💬 Ask me about<br>Web development basics, frontend learning resources, and GitHub workflows.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into real web projects and improving my code step by step.
+🔭 I’m currently working on  
+Building responsive web applications and improving my frontend & full-stack development skills.
 
+👯 I’m looking to collaborate on  
+Open-source web projects, dashboards, and beginner-friendly full-stack applications.
+
+🤝 I’m looking for help with  
+Advanced JavaScript, scalable frontend architecture, and backend optimization.
+
+🌱 I’m currently learning  
+Modern web technologies including HTML, CSS, JavaScript, TypeScript, React, Next.js, and backend development.  
+Also exploring Artificial Intelligence and Machine Learning.
+
+💬 Ask me about  
+Frontend development, React, Tailwind CSS, Git/GitHub, and building real-world projects.
+
+⚡ Fun fact  
+I enjoy building clean UI, dashboards, and turning simple ideas into real-world applications 🚀
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/fahi-m.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sahariar.ahamed.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_urfav_fahim_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fa-him-0b8284336) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fahim789m) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ImageFantastic3713) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahim789m@gmail.com) 
