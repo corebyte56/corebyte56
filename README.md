@@ -93,32 +93,13 @@ I enjoy building clean UI, dashboards, and turning simple ideas into real-world 
 
 ---
 
-# 📊 GitHub Stats:
+## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=corebyte56&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
 
-![](https://github-readme-stats.vercel.app/api?username=corebyte56\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=corebyte56\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=corebyte56\&theme=dark\&hide_border=false\&layout=compact)
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
----
+### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=corebyte56&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=corebyte56\&theme=radical)
+--- 
 
----
-
-### ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=corebyte56\&limit=5\&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=corebyte56\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
-<!-- Updated README -->
+[![](https://visitcount.itsvg.in/api?id=corebyte56&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
