@@ -53,6 +53,9 @@ I enjoy building clean UI, dashboards, and turning simple ideas into real-world 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
 ![React Router](https://img.shields.io/badge/react--router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge\&logo=three.js\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/framer--motion-%23000000.svg?style=for-the-badge\&logo=framer\&logoColor=blue)
+![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge\&logo=greensock\&logoColor=black)
+
 
 ### 🎯 Styling
 
